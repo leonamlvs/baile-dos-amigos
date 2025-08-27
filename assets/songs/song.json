@@ -1,0 +1,15 @@
+{
+  "song": "res://assets/songs/song.ogg",
+  "bpm": 120,
+  "notes": [
+    { "time": 1.0, "lane": 7, "type": "tap" },
+    { "time": 1.5, "lane": 8, "type": "tap" },
+    { "time": 2.0, "lane": 9, "type": "tap" },
+    { "time": 2.5, "lane": 4, "type": "hold", "duration": 1.5 },
+    { "time": 3.0, "lane": 5, "type": "tap" },
+    { "time": 3.5, "lane": 6, "type": "tap" },
+    { "time": 4.0, "lane": 1, "type": "tap" },
+    { "time": 4.5, "lane": 2, "type": "hold", "duration": 2.0 },
+    { "time": 5.0, "lane": 3, "type": "tap" }
+  ]
+}
